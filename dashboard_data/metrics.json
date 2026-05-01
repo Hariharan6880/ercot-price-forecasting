@@ -1,0 +1,13 @@
+{
+  "xgb_mae": 7.58,
+  "xgb_median_ae": 2.74,
+  "xgb_rmse": 44.31,
+  "naive_lag1_mae": 9.18,
+  "naive_lag1_rmse": 54.07,
+  "hourly_mean_mae": 26.03,
+  "hourly_mean_rmse": 63.59,
+  "linear_regression_mae": 16.21,
+  "linear_regression_rmse": 49.74,
+  "ridge_regression_mae": 15.64,
+  "ridge_regression_rmse": 50.09
+}
